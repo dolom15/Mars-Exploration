@@ -1,1 +1,1 @@
-# Mars-Exploration
+# Mars-Exploration This code counts how many characters in the received string `s` differ from the expected repeating "SOS" pattern, representing altered letters in a Mars message. It returns the total number of such changed characters.
